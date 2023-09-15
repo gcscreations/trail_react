@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/trail_react/static/css/main.073c9b0a.css",
+    "main.js": "/trail_react/static/js/main.2562b7fd.js",
+    "static/js/787.18ad2181.chunk.js": "/trail_react/static/js/787.18ad2181.chunk.js",
+    "static/media/logo.svg": "/trail_react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trail_react/index.html",
+    "main.073c9b0a.css.map": "/trail_react/static/css/main.073c9b0a.css.map",
+    "main.2562b7fd.js.map": "/trail_react/static/js/main.2562b7fd.js.map",
+    "787.18ad2181.chunk.js.map": "/trail_react/static/js/787.18ad2181.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.2562b7fd.js"
+  ]
+}
